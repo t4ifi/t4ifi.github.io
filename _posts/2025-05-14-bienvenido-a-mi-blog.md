@@ -17,7 +17,7 @@ En este blog vas a encontrar:
 
 Podés encontrarme en mis redes:
 
-- [Twitter](https://twitter.com/t4ifi)
+- [Twitter](https://twitter.com/t4ifi404)
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9snu%C3%B1ez/)
 
 Gracias por leer, y ¡bienvenido a este espacio!
