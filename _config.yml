@@ -58,7 +58,7 @@ cdn:
 
 avatar: /assets/img/avatar.jpg # Puedes colocar tu imagen en esa ruta
 
-social_preview_image: /assets/img/social-preview.png # Imagen para cuando se comparte el sitio
+social_preview_image: /assets/img/avatar.jpg # Imagen para cuando se comparte el sitio
 
 toc: true
 
