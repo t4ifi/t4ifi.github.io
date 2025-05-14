@@ -1,0 +1,58 @@
+title: "Guía Básica de Nmap para Escaneo de Redes"
+date: 2025-05-14
+categories: [Ciberseguridad]
+tags: [nmap, escaneo de puertos, ciberseguridad]
+---
+
+**Nmap** es una herramienta poderosa de código abierto usada para explorar redes y realizar auditorías de seguridad. Permite descubrir puertos abiertos, servicios en ejecución, sistemas operativos y otras configuraciones de seguridad en redes.
+
+### Instalación
+
+Para instalar `nmap` en Linux, puedes usar el siguiente comando:
+
+`sudo apt-get install nmap`
+
+### Comandos Básicos
+
+- **Escanear puertos en una dirección IP:**
+  `nmap 192.168.1.1`
+  Esto escaneará los puertos comunes de la dirección IP proporcionada.
+
+- **Escanear todos los puertos de una IP:**
+  `nmap -p- 192.168.1.1`
+  Esta opción escanea todos los puertos de la máquina.
+
+- **Escanear con descubrimiento de versión:**
+  `nmap -sV 192.168.1.1`
+  Detecta las versiones de los servicios que se están ejecutando.
+
+- **Escaneo rápido:**
+  `nmap -T4 192.168.1.1`
+  Utiliza la opción `-T4` para aumentar la velocidad del escaneo.
+
+- **Escaneo con Scripts:**
+  `nmap -sC 192.168.1.1`
+  Utiliza scripts predeterminados para la detección de vulnerabilidades comunes.
+
+### Opciones Avanzadas
+
+- **Escaneo de puertos específicos:**
+  `nmap -p 22,80,443 192.168.1.1`
+
+- **Descubrimiento de sistema operativo:**
+  `nmap -O 192.168.1.1`
+
+- **Escaneo con detección de firewall:**
+  `nmap -sA 192.168.1.1`
+
+### Ejemplo Completo
+
+Un ejemplo de un escaneo completo, con todas las opciones activadas, sería el siguiente:
+
+`sudo nmap -p- --open -sS -sC -sV --min-rate 5000 -vvv -n -Pn 192.168.1.1 -oN Escaneo`
+
+Este comando realiza un escaneo rápido, identifica servicios y versiones, y guarda los resultados en un archivo.
+
+---
+
+**Andrés Nuñez**
