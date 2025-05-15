@@ -6,6 +6,7 @@ order: 4
 
 ### Programador Full Stack · Pentester · Autodidacta
 
+📝 En este blog comparto todo lo relacionado a hacking, redes, CTFs, Linux, tutoriales y más del mundo tech.  
 💻 Me apasiona el mundo Linux, especialmente [Debian GNU/Linux](https://www.debian.org/).  
 🔐 Estudio Ciberseguridad y Hacking Ético por mi cuenta.  
 🌐 Trabajo con tecnologías open source para desarrollo web y pentesting.
