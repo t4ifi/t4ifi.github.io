@@ -34,9 +34,9 @@ Las consultas en bases de datos son instrucciones que se envían a la base de da
 ## Cómo Crear una Base de Datos
 
 Para crear una base de datos en SQL usando comandos:
-
+```sql
     CREATE DATABASE Nombre;
-
+```
 **Explicación**:
 
 - `CREATE DATABASE`: Le indica al sistema que quieres crear una nueva base de datos.  
@@ -49,13 +49,14 @@ Para crear una base de datos en SQL usando comandos:
 ---
 
 ## Cómo Crear Tablas
-
+```sql
     CREATE TABLE usuarios (
       id INT PRIMARY KEY AUTO_INCREMENT,
       nombre VARCHAR(50) NOT NULL,
       email VARCHAR(100) UNIQUE NOT NULL,
       contraseña VARCHAR(255) NOT NULL
     );
+```
 
 **Explicación**:
 
@@ -65,9 +66,9 @@ Para crear una base de datos en SQL usando comandos:
 - `contraseña VARCHAR(255) NOT NULL`: Guarda contraseñas sin permitir nulos.
 
 ### Comando `USE`
-
+```sql
     USE nombre_de_la_base_de_datos;
-
+```
 Este comando se usa para seleccionar una base de datos específica.
 
 ---
@@ -77,10 +78,10 @@ Este comando se usa para seleccionar una base de datos específica.
 <div style="text-align: center;">
   <img src="/assets/img/apuntes/base2.jpeg" alt="insertar registro" style="width: 100%; max-width: 500px;" />
 </div>
-
+```sql
     INSERT INTO empleado (nombre, apellido, edad, username, contraseña)
     VALUES ("andres", "nuñez", 17, "andres.nuneez", "Andres12234");
-
+```
 **Explicación**:
 
 - **INSERT INTO empleado**: Inserta datos en la tabla "empleado".  
@@ -90,9 +91,9 @@ Este comando se usa para seleccionar una base de datos específica.
 ---
 
 ## Consulta `SELECT`
-
+```sql
     SELECT <columna o *> FROM <tabla> WHERE <condiciones>;
-
+```
 - `SELECT`: Selecciona columnas específicas o todas (`*`).  
 - `FROM`: Indica la tabla.  
 - `WHERE`: Filtra resultados (opcional).
@@ -100,11 +101,11 @@ Este comando se usa para seleccionar una base de datos específica.
 ---
 
 ## Consulta `UPDATE`
-
+```sql
     UPDATE <tabla>
     SET columna1 = valor1, columna2 = valor2, ...
     WHERE condiciones;
-
+```
 - `UPDATE`: Indica la tabla a actualizar.  
 - `SET`: Define qué columnas cambiar.  
 - `WHERE`: Aplica condiciones específicas (opcional).
@@ -112,9 +113,9 @@ Este comando se usa para seleccionar una base de datos específica.
 ---
 
 ## Consulta `DELETE`
-
+```sql
     DELETE FROM <tabla> WHERE condiciones;
-
+```
 - `DELETE FROM`: Elimina registros.  
 - `WHERE`: Filtra qué registros eliminar (opcional).
 

@@ -1,5 +1,5 @@
 ---
-title: Comandos básicos de Linux; mkdir, cd, ls y touch
+title: "Comandos básicos de Linux: mkdir, cd, ls y touch"
 date: 2025-05-16
 categories: [Linux, Terminal]
 tags: [linux, comandos, terminal, bash]
