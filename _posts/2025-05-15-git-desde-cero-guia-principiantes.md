@@ -772,4 +772,3 @@ git log --oneline
 Git puede parecer intimidante al principio, pero con práctica se vuelve segunda naturaleza. ¡Cada desarrollador profesional lo usa diariamente!
 
 **Escrito por Andrés Núñez**  
-*Desarrollador y Formador en Tecnologías de Control de Versiones*
