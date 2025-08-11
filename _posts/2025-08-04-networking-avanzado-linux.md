@@ -3,9 +3,6 @@ title: "Networking Avanzado en Linux: Configuración, Troubleshooting y Optimiza
 date: 2025-08-04 08:00:00 +0100
 categories: [Linux, Networking]
 tags: [linux, networking, tcp, ip, routing, vlan, bonding, troubleshooting, performance]
-image:
-  path: /assets/img/networking-linux.jpg
-  alt: "Networking Avanzado en Linux"
 ---
 
 # Networking Avanzado en Linux: Configuración, Troubleshooting y Optimización
