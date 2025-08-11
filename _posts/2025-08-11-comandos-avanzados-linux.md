@@ -1794,8 +1794,8 @@ Ahora que dominas estos comandos avanzados:
 ---
 
 🔗 **Posts relacionados:**
-- [Comandos básicos de Linux](/posts/comandosbasicos/)
-- [Linux: Introducción al sistema](/posts/linux/)
-- [Docker: Introducción desde cero](/posts/docker-introduccion-desde-cero/)
+- [Comandos básicos de Linux](_posts/2025-05-16-Comandos.md)
+- [Linux: Introducción al sistema](_posts/2025-05-16-Linux.md)
+- [Docker: Introducción desde cero](_posts/2025-05-21-docker-introduccion-desde-cero.md)
 
 **Andrés Núñez**
