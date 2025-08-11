@@ -1794,8 +1794,8 @@ Ahora que dominas estos comandos avanzados:
 ---
 
 🔗 **Posts relacionados:**
-- [Comandos esenciales de terminal en Linux](/posts/comandos-esenciales-de-terminal-en-linux/)
-- [Tutorial práctico de comandos básicos](/posts/comandos-basicos-de-linux-tutorial-practico-paso-a-paso/)
-- [¿Qué es Linux y por qué se usa en Hacking?](/posts/que-es-linux-y-por-que-se-usa-en-hacking/)
+- [Comandos básicos de Linux](/posts/comandosbasicos/)
+- [Linux: Introducción al sistema](/posts/linux/)
+- [Docker: Introducción desde cero](/posts/docker-introduccion-desde-cero/)
 
 **Andrés Núñez**
