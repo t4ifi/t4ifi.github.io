@@ -1215,4 +1215,3 @@ El futuro de la tecnología está en la nube, y dominar estos conceptos es esenc
 ---
 
 **Andrés Núñez**  
-*Cloud Architect & Virtualization Specialist*

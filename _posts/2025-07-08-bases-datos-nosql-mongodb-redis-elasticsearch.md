@@ -828,4 +828,3 @@ El futuro de las aplicaciones modernas está en arquitecturas híbridas que apro
 ---
 
 **Andrés Núñez**  
-*Database Engineer & NoSQL Specialist*
