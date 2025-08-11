@@ -887,4 +887,4 @@ Dominar systemd es esencial para cualquier administrador de sistemas Linux moder
 
 ---
 
-*Andrés Núñez - Especialista en Administración de Sistemas Linux*
+*Andrés Núñez*

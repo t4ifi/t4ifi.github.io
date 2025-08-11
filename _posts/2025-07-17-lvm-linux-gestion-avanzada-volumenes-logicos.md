@@ -642,4 +642,4 @@ LVM es fundamental para administradores que gestionan infraestructuras críticas
 
 ---
 
-*Andrés Núñez - Especialista en Gestión de Almacenamiento y Infraestructura*
+*Andrés Núñez*

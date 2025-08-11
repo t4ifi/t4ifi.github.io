@@ -1030,4 +1030,4 @@ Dominar Redis es esencial para construir aplicaciones web modernas de alto rendi
 
 ---
 
-*Andrés Núñez - Especialista en Bases de Datos NoSQL y Arquitectura de Alto Rendimiento*
+*Andrés Núñez*
