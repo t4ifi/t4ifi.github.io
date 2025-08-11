@@ -1,6 +1,6 @@
 ---
 title: "Comandos Avanzados de Linux: Guía Completa para Power Users"
-date: 2025-08-11 15:30:00 +0000
+date: 2025-05-19 15:30:00 +0000
 categories: [Linux, Terminal]
 tags: [linux, comandos-avanzados, awk, sed, grep, find, terminal, shell, bash, text-processing]
 ---
