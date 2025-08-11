@@ -973,4 +973,4 @@ La observabilidad no es un destino, sino un viaje continuo de mejora. Comienza c
 
 ---
 
-*Escrito por Andrés Núñez, especialista en observabilidad, SRE y monitoreo de infraestructuras críticas.*
+*Escrito por Andrés Núñez*

@@ -767,4 +767,4 @@ La automatización efectiva es un proceso iterativo. Comienza con scripts simple
 
 ---
 
-*Escrito por Andrés Núñez, especialista en administración de sistemas Linux y automatización de infraestructuras.*
+*Escrito por Andrés Núñez*

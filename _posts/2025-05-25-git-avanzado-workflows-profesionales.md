@@ -1077,4 +1077,3 @@ Git no es solo una herramienta - es una implementación brillante de múltiples 
 - **Think Like (a) Git**: Para comprender el modelo mental
 
 **Escrito por Andrés Núñez**  
-*Especialista en DevOps y Control de Versiones Distribuido*

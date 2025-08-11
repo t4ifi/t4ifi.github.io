@@ -1231,4 +1231,4 @@ La experiencia en troubleshooting de redes se desarrolla con la práctica consta
 
 ---
 
-*Escrito por Andrés Núñez, especialista en redes, diagnóstico de infraestructuras y administración de sistemas distribuidos.*
+*Escrito por Andrés Núñez*
