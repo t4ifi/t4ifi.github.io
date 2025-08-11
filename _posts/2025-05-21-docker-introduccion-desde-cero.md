@@ -3,9 +3,6 @@ title: "Docker: Guía Completa desde Fundamentos hasta Orquestación"
 date: 2025-05-21 19:45:08 +0000
 categories: [DevOps, Contenedores]
 tags: [docker, contenedores, devops, microservicios, orchestration, debian, linux]
-image:
-  path: /assets/img/docker-banner.png
-  alt: "Docker containerization platform"
 ---
 
 
