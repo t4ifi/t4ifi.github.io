@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 lang: es-ES
 timezone: America/Montevideo
 
-title: Blog - Andrés Nuñez
+title: Andrés Nuñez
 tagline: Exploit Developer
 description: >-
   Blog personal de Andrés Nuñez. Hablando de ciberseguridad, programación, proyectos técnicos y vida tech en general.
@@ -35,7 +35,7 @@ webmaster_verifications:
 
 analytics:
   google:
-    id: # Podés agregar tu código GA si querés
+    id:
   goatcounter:
     id:
   umami:
