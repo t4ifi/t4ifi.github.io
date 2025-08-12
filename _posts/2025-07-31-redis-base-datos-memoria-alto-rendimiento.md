@@ -1029,5 +1029,4 @@ Redis es una herramienta fundamental para:
 Dominar Redis es esencial para construir aplicaciones web modernas de alto rendimiento.
 
 ---
-
-*Andrés Núñez*
+**Andrés Nuñez - t4ifi**

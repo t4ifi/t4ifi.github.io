@@ -748,5 +748,4 @@ Las claves del éxito incluyen:
 La inversión en aprender iptables a fondo se traduce en sistemas más seguros y administración más eficiente.
 
 ---
-
-**Andrés Núñez**  
+**Andrés Nuñez - t4ifi**

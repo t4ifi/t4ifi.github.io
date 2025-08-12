@@ -741,4 +741,5 @@ La optimización de servidores web es un proceso continuo que requiere:
 
 💡 **Recuerda:** La optimización es un balance entre performance, seguridad y mantenibilidad. Siempre prioriza la estabilidad sobre la velocidad.
 
-**Andrés Nuñez**
+---
+**Andrés Nuñez - t4ifi**

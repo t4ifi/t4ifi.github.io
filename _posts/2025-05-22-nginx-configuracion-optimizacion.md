@@ -983,4 +983,5 @@ Las claves del éxito son:
 
 El dominio de Nginx no es solo sobre configuración, sino sobre entender cómo funcionan los sistemas distribuidos modernos a gran escala.
 
-**Escrito por Andrés Núñez**  
+---
+**Andrés Nuñez - t4ifi**

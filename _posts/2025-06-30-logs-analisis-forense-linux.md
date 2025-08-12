@@ -828,5 +828,4 @@ El análisis de logs y la investigación forense son habilidades cruciales para 
 La práctica constante con estas herramientas y técnicas te convertirá en un investigador forense más efectivo y un administrador de sistemas más seguro.
 
 ---
-
-**Andrés Núñez**  
+**Andrés Nuñez - t4ifi**  

@@ -869,6 +869,6 @@ PostgreSQL es una base de datos tremendamente poderosa que, cuando se configura 
 
 La inversión en aprender PostgreSQL a fondo se paga rápidamente en términos de performance, confiabilidad y capacidades avanzadas que otros sistemas de bases de datos simplemente no pueden ofrecer.
 
----
 
-**Andrés Núñez**  
+---
+**Andrés Nuñez - t4ifi**

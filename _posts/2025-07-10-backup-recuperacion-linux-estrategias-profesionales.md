@@ -753,5 +753,4 @@ Una estrategia de backup efectiva combina:
 Los backups no son un lujo, son una necesidad fundamental en cualquier infraestructura seria.
 
 ---
-
-*Andrés Núñez - Especialista en Disaster Recovery y Continuidad del Negocio*
+**Andrés Nuñez - t4ifi**

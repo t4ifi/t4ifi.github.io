@@ -515,5 +515,4 @@ La elección entre estas herramientas depende de:
 Dominar ambas tecnologías te permitirá adaptar la solución adecuada a cada escenario específico.
 
 ---
-
-**Andrés Núñez**  
+**Andrés Nuñez - t4ifi**

@@ -973,4 +973,5 @@ La observabilidad no es un destino, sino un viaje continuo de mejora. Comienza c
 
 ---
 
-*Escrito por Andrés Núñez*
+---
+**Andrés Nuñez - t4ifi**

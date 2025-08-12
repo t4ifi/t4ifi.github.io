@@ -410,4 +410,5 @@ ORDER BY salario DESC;
 
 💡 **Recuerda:** Los operadores SQL son herramientas poderosas. La clave está en combinarlos de manera lógica y eficiente para resolver problemas reales de negocio.
 
-**Andrés Nuñez**
+---
+**Andrés Nuñez - t4ifi**

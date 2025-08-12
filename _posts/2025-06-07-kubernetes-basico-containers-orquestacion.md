@@ -808,5 +808,4 @@ Kubernetes puede parecer abrumador al principio, pero dominar estos conceptos b�
 Kubernetes es una herramienta poderosa que ha revolucionado la manera en que desplegamos y gestionamos aplicaciones. Con práctica y paciencia, se convertirá en una herramienta indispensable en tu arsenal de DevOps.
 
 ---
-
-**Andrés Núñez**  
+**Andrés Nuñez - t4ifi**

@@ -531,5 +531,4 @@ access_log /var/log/nginx/detailed.log detailed;
 La elección entre Apache y Nginx no es binaria. Muchas arquitecturas modernas combinan ambos, aprovechando las fortalezas de cada uno.
 
 ---
-
-*Andrés Núñez - Especialista en Arquitectura de Servidores Web*
+**Andrés Nuñez - t4ifi**

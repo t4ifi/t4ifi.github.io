@@ -397,7 +397,8 @@ $ ./crear_proyecto.sh
 
 **¡Felicitaciones! Ya manejás los comandos esenciales de Linux** 🎉
 
-**Andrés Nuñez**
+---
+**Andrés Nuñez - t4ifi**
 
 ---
 

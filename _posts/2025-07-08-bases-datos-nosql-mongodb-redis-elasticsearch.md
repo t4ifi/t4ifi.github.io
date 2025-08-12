@@ -825,6 +825,6 @@ La clave del éxito está en:
 
 El futuro de las aplicaciones modernas está en arquitecturas híbridas que aprovechan las fortalezas de diferentes paradigmas de bases de datos.
 
----
 
-**Andrés Núñez**  
+---
+**Andrés Nuñez - t4ifi**

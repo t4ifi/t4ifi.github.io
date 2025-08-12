@@ -333,3 +333,6 @@ redis-cli
 5. **Explora herramientas**: phpMyAdmin, MongoDB Compass, Redis GUI
 
 💡 **Recuerda:** No existe una "mejor" base de datos. La elección depende de tus requisitos específicos de consistencia, escalabilidad, y tipo de datos.
+
+---
+**Andrés Nuñez - t4ifi**

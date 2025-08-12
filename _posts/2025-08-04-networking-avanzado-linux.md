@@ -678,4 +678,5 @@ La práctica constante con estos conceptos y herramientas es fundamental para co
 
 *Este post forma parte de mi serie sobre administración avanzada de sistemas Linux. Si tienes preguntas o sugerencias, no dudes en contactarme.*
 
-**Andrés Núñez**  
+---
+**Andrés Nuñez - t4ifi**

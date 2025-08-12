@@ -886,5 +886,4 @@ Systemd proporciona:
 Dominar systemd es esencial para cualquier administrador de sistemas Linux moderno.
 
 ---
-
-*Andrés Núñez*
+**Andrés Nuñez - t4ifi**

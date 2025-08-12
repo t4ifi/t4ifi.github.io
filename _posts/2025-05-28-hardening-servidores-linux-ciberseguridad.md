@@ -1070,4 +1070,5 @@ El tiempo invertido en hardening apropiado **siempre** se compensa con creces cu
 
 ¿Tienes un servidor que necesita hardening? ¡Empieza con el checklist y adapta las configuraciones a tu entorno específico!
 
-**Escrito por Andrés Núñez**  
+---
+**Andrés Nuñez - t4ifi**

@@ -653,4 +653,5 @@ Con GitHub Actions, puedes crear pipelines de CI/CD robustos que mejoren signifi
 
 ---
 
-**Andrés Núñez**  
+---
+**Andrés Nuñez - t4ifi**

@@ -1213,5 +1213,4 @@ La virtualización y el cloud computing han revolucionado la tecnología, ofreci
 El futuro de la tecnología está en la nube, y dominar estos conceptos es esencial para cualquier profesional de TI en la era digital.
 
 ---
-
-**Andrés Núñez**  
+**Andrés Nuñez - t4ifi**

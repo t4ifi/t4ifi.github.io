@@ -683,5 +683,4 @@ SSH es una herramienta increíblemente poderosa que va mucho más allá de la si
 La inversión en aprender estas técnicas avanzadas de SSH se traduce directamente en mayor eficiencia, seguridad y capacidades profesionales como administrador de sistemas.
 
 ---
-
-**Andrés Núñez**  
+**Andrés Nuñez - t4ifi**

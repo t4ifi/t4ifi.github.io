@@ -795,4 +795,5 @@ Con estas configuraciones y scripts tendrás un entorno de desarrollo Linux alta
 
 💡 **Recuerda:** La productividad viene de la práctica constante y la automatización inteligente de tareas repetitivas.
 
-**Andrés Nuñez**
+---
+**Andrés Nuñez - t4ifi**

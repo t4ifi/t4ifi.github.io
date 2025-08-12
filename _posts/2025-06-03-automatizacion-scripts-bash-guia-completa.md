@@ -767,4 +767,5 @@ La automatización efectiva es un proceso iterativo. Comienza con scripts simple
 
 ---
 
-*Escrito por Andrés Núñez*
+---
+**Andrés Nuñez - t4ifi**

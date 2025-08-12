@@ -346,4 +346,5 @@ DELETE FROM empleados WHERE salario < 3000;
 
 💡 **Recuerda:** SQL es un lenguaje potente. ¡La práctica constante es clave para dominarlo!
 
-**Andrés Nuñez**
+---
+**Andrés Nuñez - t4ifi**

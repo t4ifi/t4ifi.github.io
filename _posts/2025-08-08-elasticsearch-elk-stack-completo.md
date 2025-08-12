@@ -1592,4 +1592,5 @@ El dominio del stack ELK es esencial para cualquier administrador de sistemas mo
 
 *Este post forma parte de mi serie sobre tecnologías de Big Data y análisis. Si tienes preguntas o sugerencias, no dudes en contactarme.*
 
-**Andrés Núñez**  
+---
+**Andrés Nuñez - t4ifi**

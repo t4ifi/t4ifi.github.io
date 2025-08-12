@@ -1475,4 +1475,5 @@ El futuro de la administración de sistemas está en la **automatización inteli
 
 ¿Tienes una tarea específica de administración que quieres automatizar? ¡Comparte tu caso y te ayudo a implementarlo!
 
-**Escrito por Andrés Núñez**  
+---
+**Andrés Nuñez - t4ifi**

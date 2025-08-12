@@ -641,5 +641,4 @@ LVM proporciona:
 LVM es fundamental para administradores que gestionan infraestructuras críticas donde la flexibilidad del almacenamiento es esencial.
 
 ---
-
-*Andrés Núñez*
+**Andrés Nuñez - t4ifi**

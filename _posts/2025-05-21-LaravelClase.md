@@ -120,3 +120,5 @@ Laravel facilita enormemente la creación de APIs REST gracias a herramientas co
 - Sistema de rutas RESTful.
 
 Al seguir los principios REST y usar correctamente los verbos y códigos HTTP, podés construir APIs robustas, escalables y fáciles de integrar con frontend en Vue, React o apps móviles.
+---
+**Andrés Nuñez - t4ifi**

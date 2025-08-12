@@ -1076,4 +1076,5 @@ Git no es solo una herramienta - es una implementación brillante de múltiples 
 - **Git Internals** (Scott Chacon): Para entender la implementación
 - **Think Like (a) Git**: Para comprender el modelo mental
 
-**Escrito por Andrés Núñez**  
+---
+**Andrés Nuñez - t4ifi**

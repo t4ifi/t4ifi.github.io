@@ -1230,5 +1230,4 @@ El troubleshooting de redes requiere un enfoque sistemático y el dominio de mú
 La experiencia en troubleshooting de redes se desarrolla con la práctica constante y la exposición a diferentes tipos de problemas. Mantén siempre un enfoque metódico, documenta tus hallazgos y nunca subestimes la importancia de verificar los fundamentos básicos antes de buscar soluciones complejas.
 
 ---
-
-*Escrito por Andrés Núñez*
+**Andrés Nuñez - t4ifi**
