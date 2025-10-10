@@ -3,9 +3,6 @@ title: "Hacking Ético desde 0 - Parte 7: Post-Explotación y Persistencia"
 date: 2025-09-08 10:00:00 +0100
 categories: [Hacking Ético, Ciberseguridad]
 tags: [hacking-etico, pentesting, post-explotacion, persistencia, escalada-privilegios, lateral-movement]
-image:
-  path: /assets/img/hacking-etico/post-explotacion.jpg
-  alt: "Post-Explotación y Persistencia en Hacking Ético"
 ---
 
 ## 🎯 Introducción
@@ -686,7 +683,7 @@ En el **próximo tutorial** finalizaremos la serie con:
 
 ## 📚 Recursos Adicionales
 
-- [PTES (Penetration Testing Execution Standard)](http://www.pentest-standard.org/)
+- [PTES (Penetration Testing Execution Standard)](https://www.pentest-standard.org/)
 - [NIST SP 800-115](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf)
 - [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 - [GTFOBins](https://gtfobins.github.io/)

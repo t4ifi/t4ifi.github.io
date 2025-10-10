@@ -3,9 +3,6 @@ title: "Hacking Ético desde 0 - Parte 6: Explotación de Servicios Comunes"
 date: 2025-09-07 10:00:00 +0100
 categories: [Hacking Ético, Ciberseguridad]
 tags: [hacking-etico, pentesting, explotacion, metasploit, ssh, ftp, smb, web-exploitation]
-image:
-  path: /assets/img/hacking-etico/explotacion-servicios.jpg
-  alt: "Explotación de Servicios Comunes en Hacking Ético"
 ---
 
 ## 🎯 Introducción

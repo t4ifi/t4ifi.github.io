@@ -3,9 +3,6 @@ title: "Hacking Ético: Escaneo de Red y Enumeración de Servicios"
 date: 2025-09-05 10:00:00 +0100
 categories: [Ciberseguridad, Hacking Ético]
 tags: [hacking-etico, pentesting, nmap, enumeracion, escaneo, vulnerabilidades, kali-linux, reconocimiento]
-image:
-  path: /assets/img/hacking-etico/escaneo-red.jpg
-  alt: "Escaneo de Red y Enumeración en Hacking Ético"
 ---
 
 ## 🎯 Introducción
