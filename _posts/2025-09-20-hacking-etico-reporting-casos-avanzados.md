@@ -342,9 +342,9 @@ Durante la evaluación se identificaron **{{ critical }} vulnerabilidades críti
 ## Nivel de Riesgo General
 {% if critical > 0 %}
 **CRÍTICO** - Acción inmediata requerida
-{% elif high > 0 %}
+{% elsif high > 0 %}
 **ALTO** - Remediación en 48-72 horas
-{% elif medium > 0 %}
+{% elsif medium > 0 %}
 **MEDIO** - Remediación en 1-2 semanas
 {% else %}
 **BAJO** - Remediación en próximo ciclo de mantenimiento

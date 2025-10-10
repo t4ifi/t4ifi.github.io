@@ -120,7 +120,7 @@ groups:
       severity: warning
     annotations:
       summary: "CPU usage is above 80%"
-      description: "CPU usage on {{ $labels.instance }} has been above 80% for more than 5 minutes"
+      {% raw %}description: "CPU usage on {{ $labels.instance }} has been above 80% for more than 5 minutes"{% endraw %}
 
   - alert: HighMemoryUsage
     expr: (node_memory_MemTotal_bytes - node_memory_MemAvailable_bytes) / node_memory_MemTotal_bytes * 100 > 85
@@ -129,7 +129,7 @@ groups:
       severity: critical
     annotations:
       summary: "Memory usage is above 85%"
-      description: "Memory usage on {{ $labels.instance }} is {{ $value }}%"
+      {% raw %}description: "Memory usage on {{ $labels.instance }} is {{ $value }}%"{% endraw %}
 
   - alert: DiskSpaceLow
     expr: (node_filesystem_avail_bytes{fstype!="tmpfs"} / node_filesystem_size_bytes{fstype!="tmpfs"}) * 100 < 10
@@ -138,7 +138,7 @@ groups:
       severity: critical
     annotations:
       summary: "Disk space is running low"
-      description: "Disk space on {{ $labels.instance }} {{ $labels.mountpoint }} is only {{ $value }}% available"
+      {% raw %}description: "Disk space on {{ $labels.instance }} {{ $labels.mountpoint }} is only {{ $value }}% available"{% endraw %}
 
 - name: application.rules
   rules:
@@ -149,7 +149,7 @@ groups:
       severity: critical
     annotations:
       summary: "High error rate detected"
-      description: "Error rate is {{ $value }} errors per second"
+      {% raw %}description: "Error rate is {{ $value }} errors per second"{% endraw %}
 
   - alert: HighLatency
     expr: histogram_quantile(0.95, rate(http_request_duration_seconds_bucket[5m])) > 0.5
@@ -158,7 +158,7 @@ groups:
       severity: warning
     annotations:
       summary: "High latency detected"
-      description: "95th percentile latency is {{ $value }}s"
+      {% raw %}description: "95th percentile latency is {{ $value }}s"{% endraw %}
 ```
 
 ### 3. Script de Instalación y Configuración

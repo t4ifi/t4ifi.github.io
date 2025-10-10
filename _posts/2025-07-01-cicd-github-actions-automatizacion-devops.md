@@ -187,9 +187,9 @@ jobs:
       uses: actions/cache@v3
       with:
         path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        {% raw %}key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}{% endraw %}
         restore-keys: |
-          ${{ runner.os }}-pip-
+          {% raw %}${{ runner.os }}-pip-{% endraw %}
           
     - name: Install dependencies
       run: |
@@ -366,7 +366,7 @@ jobs:
 
   frontend-tests:
     needs: changes
-    if: ${{ needs.changes.outputs.frontend == 'true' }}
+    {% raw %}if: ${{ needs.changes.outputs.frontend == 'true' }}{% endraw %}
     runs-on: ubuntu-latest
     steps:
     - name: Test frontend
@@ -374,7 +374,7 @@ jobs:
 
   backend-tests:
     needs: changes
-    if: ${{ needs.changes.outputs.backend == 'true' }}
+    {% raw %}if: ${{ needs.changes.outputs.backend == 'true' }}{% endraw %}
     runs-on: ubuntu-latest
     steps:
     - name: Test backend
@@ -541,9 +541,9 @@ jobs:
       uses: actions/cache@v3
       with:
         path: ~/.npm
-        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        {% raw %}key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}{% endraw %}
         restore-keys: |
-          ${{ runner.os }}-node-
+          {% raw %}${{ runner.os }}-node-{% endraw %}
           
     # Cache de Docker layers
     - name: Cache Docker layers
@@ -597,9 +597,9 @@ jobs:
     - name: Debug information
       run: |
         echo "GitHub context:"
-        echo "${{ toJson(github) }}"
+        {% raw %}echo "${{ toJson(github) }}"{% endraw %}
         echo "Runner context:"
-        echo "${{ toJson(runner) }}"
+        {% raw %}echo "${{ toJson(runner) }}"{% endraw %}
         echo "Environment variables:"
         env | sort
         

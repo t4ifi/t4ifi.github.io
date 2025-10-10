@@ -238,10 +238,10 @@ docker search nginx
 docker pull nginx:1.25-alpine
 
 # Listar imágenes locales con detalles
-docker images --format "table {{.Repository}}\t{{.Tag}}\t{{.Size}}\t{{.CreatedAt}}"
+{% raw %}docker images --format "table {{.Repository}}\t{{.Tag}}\t{{.Size}}\t{{.CreatedAt}}"{% endraw %}
 
 # Inspeccionar imagen (layers, configuración, etc.)
-docker image inspect nginx:alpine --format '{{json .Config.Env}}'
+{% raw %}docker image inspect nginx:alpine --format '{{json .Config.Env}}'{% endraw %}
 
 # Historial de layers
 docker image history nginx:alpine
@@ -266,7 +266,7 @@ docker run -d \
   nginx:alpine
 
 # Monitoreo en tiempo real
-docker stats --format "table {{.Container}}\t{{.CPUPerc}}\t{{.MemUsage}}\t{{.NetIO}}"
+{% raw %}docker stats --format "table {{.Container}}\t{{.CPUPerc}}\t{{.MemUsage}}\t{{.NetIO}}"{% endraw %}
 
 # Logs con seguimiento
 docker logs -f --tail 50 web-server
@@ -680,7 +680,7 @@ docker run -d \
 docker run -d \
   --log-driver gelf \
   --log-opt gelf-address=udp://logstash:12201 \
-  --log-opt tag="{{.ImageName}}/{{.Name}}/{{.ID}}" \
+  {% raw %}--log-opt tag="{{.ImageName}}/{{.Name}}/{{.ID}}"{% endraw %} \
   myapp
 ```
 
