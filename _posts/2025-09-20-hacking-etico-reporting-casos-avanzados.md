@@ -1,6 +1,6 @@
 ---
 title: "Hacking Ético desde 0 - Parte 8: Reporting y Casos Avanzados"
-date: 2025-09-20 10:00:00 +0100
+date: 2025-09-09 10:00:00 +0100
 categories: [Hacking Ético, Ciberseguridad]
 tags: [hacking-etico, pentesting, reporting, documentacion, owasp, casos-estudio, certificaciones]
 image:

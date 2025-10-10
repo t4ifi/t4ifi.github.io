@@ -1,6 +1,6 @@
 ---
 title: "Hacking Ético desde 0 - Parte 7: Post-Explotación y Persistencia"
-date: 2025-09-15 10:00:00 +0100
+date: 2025-09-08 10:00:00 +0100
 categories: [Hacking Ético, Ciberseguridad]
 tags: [hacking-etico, pentesting, post-explotacion, persistencia, escalada-privilegios, lateral-movement]
 image:

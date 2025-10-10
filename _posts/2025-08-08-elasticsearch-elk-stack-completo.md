@@ -1,7 +1,7 @@
 ---
 title: "Elasticsearch y el Stack ELK: Guía Completa para Búsqueda y Análisis de Datos"
-date: 2025-08-08 08:00:00 +0100
-categories: [Big Data, Search]
+date: 2025-09-01 08:00:00 +0100
+categories: [Datos, Elasticsearch]
 tags: [elasticsearch, elk, logstash, kibana, beats, search, analytics, logs, monitoring]
 ---
 

@@ -94,6 +94,9 @@ pwa:
 paginate: 10
 baseurl: ""
 
+# Mostrar posts con fechas futuras
+future: true
+
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge

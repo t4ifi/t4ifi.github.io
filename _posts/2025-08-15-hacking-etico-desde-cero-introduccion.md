@@ -1,6 +1,6 @@
 ---
 title: "Hacking Ético desde Cero: Introducción al Pentesting Profesional"
-date: 2025-08-15 10:00:00 +0000
+date: 2025-09-02 10:00:00 +0000
 categories: [Ciberseguridad, Hacking Ético]
 tags: [hacking-etico, pentesting, ciberseguridad, kali-linux, metodologia, oscp]
 ---

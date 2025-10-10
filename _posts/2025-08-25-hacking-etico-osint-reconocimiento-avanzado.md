@@ -1,7 +1,7 @@
 ---
-title: "Hacking Ético #3: OSINT y Reconocimiento Avanzado - Information Gathering Profesional"
-date: 2025-08-25 10:00:00 +0000
-categories: [Ciberseguridad, Hacking Ético]
+title: "Hacking Ético: OSINT y Reconocimiento Avanzado para Pentesting"
+date: 2025-09-04 10:00:00 +0000
+categories: [Ciberseguridad, OSINT]
 tags: [osint, reconocimiento, google-dorking, information-gathering, recon, footprinting]
 ---
 

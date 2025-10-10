@@ -1,6 +1,6 @@
 ---
 title: "Networking Avanzado en Linux: Configuración, Troubleshooting y Optimización"
-date: 2025-08-04 08:00:00 +0100
+date: 2025-08-31 08:00:00 +0100
 categories: [Linux, Networking]
 tags: [linux, networking, tcp, ip, routing, vlan, bonding, troubleshooting, performance]
 ---

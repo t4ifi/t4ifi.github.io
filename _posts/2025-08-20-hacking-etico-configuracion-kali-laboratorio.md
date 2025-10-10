@@ -1,6 +1,6 @@
 ---
 title: "Hacking Ético #2: Configuración Avanzada de Kali Linux y Laboratorio de Práctica"
-date: 2025-08-20 10:00:00 +0000
+date: 2025-09-03 10:00:00 +0000
 categories: [Ciberseguridad, Hacking Ético]
 tags: [kali-linux, laboratorio, pentesting, configuracion, herramientas, metasploitable]
 ---
